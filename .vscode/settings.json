@@ -212,5 +212,6 @@
     // true, удаляет пробелы в конце строк при сохранении файла.
     "files.trimTrailingWhitespace": true,
     // true, удаляет пустые строки в конце файла при сохранении.
-    "files.trimFinalNewlines": true
+    "files.trimFinalNewlines": true,
+    "workbench.colorTheme": "Monokai Pro (Filter Spectrum)"
 }
