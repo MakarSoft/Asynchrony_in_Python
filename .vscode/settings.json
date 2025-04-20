@@ -213,5 +213,5 @@
     "files.trimTrailingWhitespace": true,
     // true, удаляет пустые строки в конце файла при сохранении.
     "files.trimFinalNewlines": true,
-    "workbench.colorTheme": "Monokai Pro (Filter Spectrum)"
+    "workbench.colorTheme": "Visual Studio 2019 Dark"
 }
